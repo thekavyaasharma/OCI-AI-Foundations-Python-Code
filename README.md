@@ -65,7 +65,7 @@ After installing dependencies, launch Jupyter Notebook and run the notebooks ind
 
 ## Highlights
 
-The repository follows clean ML practices, maintains a clear separation between supervised and deep learning concepts, and avoids unnecessary files. The notebooks are beginner-friendly while still demonstrating interview-relevant workflows and evaluation strategies.
+The repository follows clean ML practices, maintains a clear separation between supervised and deep learning concepts, and avoids unnecessary files. The notebooks are beginner-friendly while still demonstrating interview-relevant workflows.
 
 ---
 
